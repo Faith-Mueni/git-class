@@ -7,3 +7,4 @@ def sum(a,b):
     sum(10,40)
 
     print ("I just updated this on github")
+    print ("i just updated this on my pc")
